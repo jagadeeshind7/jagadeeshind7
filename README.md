@@ -86,6 +86,12 @@ Structured DSA programs with explanations.
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/jagadeeshind7/jagadeeshind7/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/jagadeeshind7
