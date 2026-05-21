@@ -6,7 +6,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;Linux+Programmer;Embedded+C+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;Linux+Programmer;Embedded+C+Engineer;ARM+Microcontroller+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode,arduino,bash" />
 </p>
 
 ---
@@ -70,17 +70,23 @@ Structured DSA programs with explanations.
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true)
+![Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight)
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshind7)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshind7&theme=tokyonight)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact&theme=tokyonight)
 
 ---
+
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jagadeeshind7)](https://github.com/ryo-ma/github-profile-trophy)
 
