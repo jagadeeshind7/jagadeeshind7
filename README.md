@@ -70,13 +70,13 @@ Structured DSA programs with explanations.
 
 ## 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshind7)
 
 ---
 
