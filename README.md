@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Jagadeesh
 
-<!--
-**jagadeeshind7/jagadeeshind7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Embedded Systems Developer | Embedded C | ARM | Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Working on Embedded Systems & Linux
+- 🌱 Learning STM32,LPC2129,Linux Internals & Socket Programming
+- 💻 Strong interest in Embedded C and ARM Microcontrollers
+- ⚡ Building projects daily and improving problem-solving skills
+
+---
+
+## 🛠️ Skills
+
+- Embedded C
+- ARM LPC212x
+- Linux
+- Socket Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- UART / SPI / I2C / CAN
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Wireless Temperature Monitoring System
+
+Arduino-based wireless monitoring using:
+- DS18B20
+- RF Modules
+- I2C LCD
+
+### 🔹 Embedded Systems Repository
+
+Collection of:
+- Embedded C Programs
+- Drivers
+- Bitwise Operations
+- Peripheral Examples
+
+### 🔹 DSA in C
+
+Structured DSA programs with explanations.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/jagadeeshind7
