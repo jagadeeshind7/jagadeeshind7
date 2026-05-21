@@ -76,13 +76,13 @@ Structured DSA programs with explanations.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshind7&theme=tokyonight)
+![Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
