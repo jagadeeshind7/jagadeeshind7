@@ -2,6 +2,12 @@
 
 ### Embedded Systems Developer | Embedded C | ARM | Linux
 
+![](https://komarev.com/ghpvc/?username=jagadeeshind7&color=blue)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;Linux+Programmer;Embedded+C+Engineer)](https://git.io/typing-svg)
+
 ---
 
 ## 🚀 About Me
@@ -18,6 +24,14 @@
 </p>
 
 ---
+
+## 🏅 Badges
+
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Linux](https://img.shields.io/badge/Linux-Embedded-black)
+![ARM](https://img.shields.io/badge/ARM-Microcontroller-green)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+
 
 ## 🛠️ Skills
 
@@ -57,6 +71,18 @@ Structured DSA programs with explanations.
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshind7)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jagadeeshind7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
