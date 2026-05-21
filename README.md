@@ -11,6 +11,12 @@
 - 💻 Strong interest in Embedded C and ARM Microcontrollers
 - ⚡ Building projects daily and improving problem-solving skills
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode,arduino" />
+</p>
+
 ---
 
 ## 🛠️ Skills
