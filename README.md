@@ -70,25 +70,25 @@ Structured DSA programs with explanations.
 
 ## 📈 GitHub Stats
 
-![Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight" />
 
 ---
 
 ## 🔥 GitHub Streak
 
-![Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=radical&cache_seconds=1800)
+<img height="180em" src="https://streak-stats.demolab.com?user=jagadeeshind7&theme=tokyonight" />
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact&theme=radical&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact&theme=tokyonight" />
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jagadeeshind7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jagadeeshind7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
