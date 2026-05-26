@@ -2,7 +2,7 @@
 
 ### Embedded Systems Developer | Embedded C | ARM | Linux
 
-![](https://komarev.com/ghpvc/?username=jagadeeshind7&color=blue)
+![](https://komarev.com/ghpvc/?username=jagadeeshsys&color=blue)
 
 ---
 
@@ -70,28 +70,28 @@ Structured DSA programs with explanations.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeeshind7&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeeshsys&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshind7)
+![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshsys)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagadeeshind7&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagadeeshsys&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/jagadeeshind7/jagadeeshind7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jagadeeshsys/jagadeeshsys/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/jagadeeshind7
+- GitHub: https://github.com/jagadeeshsys
