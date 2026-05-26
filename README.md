@@ -88,7 +88,7 @@ Structured DSA programs with explanations.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/jagadeeshsys/jagadeeshsys/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jagadeeshsys/jagadeeshsys/output/github-contribution-grid-snake.svg)
 
 ---
 
