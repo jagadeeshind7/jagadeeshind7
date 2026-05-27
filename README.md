@@ -56,6 +56,15 @@ Arduino-based wireless monitoring using:
 - RF Modules
 - I2C LCD
 
+### 📦 Inventory Management System
+- Built using C Programming
+- Linked List Based Product Management
+- CRUD Operations
+- Binary File Handling
+- Dynamic Memory Allocation
+- Modular Architecture
+- Makefile Support
+  
 ### 🔹 Embedded Systems Repository
 
 Collection of:
