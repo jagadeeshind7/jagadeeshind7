@@ -36,12 +36,14 @@
 ## 🛠️ Skills
 
 - Embedded C
-- ARM LPC212x
-- Linux
+- ARM LPC212x,Cortex-M
+- cpp
+- Linux - user space 
 - Socket Programming
 - Data Structures & Algorithms
 - Git & GitHub
 - UART / SPI / I2C / CAN
+- Vscode
 
 ---
 
