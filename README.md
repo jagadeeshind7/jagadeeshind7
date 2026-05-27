@@ -56,7 +56,7 @@ Arduino-based wireless monitoring using:
 - RF Modules
 - I2C LCD
 
-### 📦 Inventory Management System
+### 🔹 Inventory Management System
 - Built using C Programming
 - Linked List Based Product Management
 - CRUD Operations
